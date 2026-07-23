@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+races.db
+pipeline.log
+cron.log
+.idea/
