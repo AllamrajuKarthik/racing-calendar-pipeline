@@ -1,0 +1,17 @@
+2026-07-24 07:01:02,705 - INFO - === Pipeline run started ===
+2026-07-24 07:01:02,749 - INFO - Fetching WEC
+2026-07-24 07:01:03,695 - INFO - WEC: 4 upcoming races found
+2026-07-24 07:01:04,271 - INFO - NEW -> notified Telegram: FIA WEC | 6 Hours of Fuji
+2026-07-24 07:01:04,845 - INFO - NEW -> notified Telegram: FIA WEC | Qatar 1812 KM
+2026-07-24 07:01:05,401 - INFO - NEW -> notified Telegram: FIA WEC | Bapco Energies 8 Hours of Bahrain
+2026-07-24 07:01:05,971 - INFO - NEW -> notified Telegram: FIA WEC | Lone Star Le Mans (COTA)
+2026-07-24 07:01:05,971 - INFO - Fetching WRC
+2026-07-24 07:01:06,995 - INFO - WRC: 5 upcoming races found
+2026-07-24 07:01:07,549 - INFO - NEW -> notified Telegram: WRC | Rally Chile Bio Bío
+2026-07-24 07:01:08,171 - INFO - NEW -> notified Telegram: WRC | Rally del Paraguay
+2026-07-24 07:01:08,740 - INFO - NEW -> notified Telegram: WRC | Rally Saudi Arabia
+2026-07-24 07:01:09,294 - INFO - NEW -> notified Telegram: WRC | Secto Rally Finland
+2026-07-24 07:01:09,858 - INFO - NEW -> notified Telegram: WRC | Rally Italia Sardegna
+2026-07-24 07:01:09,858 - INFO - Fetching SRO_GT
+2026-07-24 07:01:10,519 - INFO - SRO_GT: 0 upcoming races found
+2026-07-24 07:01:10,520 - INFO - === Pipeline run finished ===
