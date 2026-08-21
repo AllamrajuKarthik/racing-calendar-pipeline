@@ -470,3 +470,19 @@
 2026-08-20 07:38:59,917 - INFO - Fetching SRO_GT
 2026-08-20 07:39:00,561 - INFO - SRO_GT: 0 upcoming races found
 2026-08-20 07:39:00,561 - INFO - === Pipeline run finished ===
+2026-08-21 07:39:59,220 - INFO - === Pipeline run started ===
+2026-08-21 07:39:59,222 - INFO - Fetching WEC
+2026-08-21 07:40:00,120 - INFO - WEC: 4 upcoming races found
+2026-08-21 07:40:00,120 - INFO - no change: FIA WEC | 6 Hours of Monza
+2026-08-21 07:40:00,120 - INFO - no change: FIA WEC | Lone Star Le Mans (COTA)
+2026-08-21 07:40:00,121 - INFO - no change: FIA WEC | 6 Hours of Barcelona
+2026-08-21 07:40:00,121 - INFO - no change: FIA WEC | 6 Hours of Fuji
+2026-08-21 07:40:00,121 - INFO - Fetching WRC
+2026-08-21 07:40:00,964 - INFO - WRC: 4 upcoming races found
+2026-08-21 07:40:00,964 - INFO - no change: WRC | Rally del Paraguay
+2026-08-21 07:40:00,964 - INFO - no change: WRC | Rally Italia Sardegna
+2026-08-21 07:40:00,965 - INFO - no change: WRC | Rally Saudi Arabia
+2026-08-21 07:40:00,965 - INFO - no change: WRC | Rally Chile Bio Bío
+2026-08-21 07:40:00,965 - INFO - Fetching SRO_GT
+2026-08-21 07:40:01,541 - INFO - SRO_GT: 0 upcoming races found
+2026-08-21 07:40:01,542 - INFO - === Pipeline run finished ===
