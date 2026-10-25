@@ -1267,3 +1267,12 @@
 2026-10-24 11:50:30,038 - INFO - Fetching SRO_GT
 2026-10-24 11:50:30,749 - INFO - SRO_GT: 0 upcoming races found
 2026-10-24 11:50:30,749 - INFO - === Pipeline run finished ===
+2026-10-25 12:20:15,664 - INFO - === Pipeline run started ===
+2026-10-25 12:20:15,664 - INFO - Fetching WEC
+2026-10-25 12:20:17,009 - INFO - WEC: 1 upcoming races found
+2026-10-25 12:20:17,009 - INFO - no change: FIA WEC | 6 Hours of Monza
+2026-10-25 12:20:17,010 - INFO - Fetching WRC
+2026-10-25 12:20:18,590 - INFO - WRC: 0 upcoming races found
+2026-10-25 12:20:18,590 - INFO - Fetching SRO_GT
+2026-10-25 12:20:19,626 - INFO - SRO_GT: 0 upcoming races found
+2026-10-25 12:20:19,626 - INFO - === Pipeline run finished ===
