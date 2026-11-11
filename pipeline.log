@@ -1418,3 +1418,11 @@
 2026-11-10 15:24:28,516 - INFO - Fetching SRO_GT
 2026-11-10 15:24:29,323 - INFO - SRO_GT: 0 upcoming races found
 2026-11-10 15:24:29,324 - INFO - === Pipeline run finished ===
+2026-11-11 14:54:11,006 - INFO - === Pipeline run started ===
+2026-11-11 14:54:11,007 - INFO - Fetching WEC
+2026-11-11 14:54:12,201 - INFO - WEC: 0 upcoming races found
+2026-11-11 14:54:12,201 - INFO - Fetching WRC
+2026-11-11 14:54:13,343 - INFO - WRC: 0 upcoming races found
+2026-11-11 14:54:13,343 - INFO - Fetching SRO_GT
+2026-11-11 14:54:14,407 - INFO - SRO_GT: 0 upcoming races found
+2026-11-11 14:54:14,408 - INFO - === Pipeline run finished ===
