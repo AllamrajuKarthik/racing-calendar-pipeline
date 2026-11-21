@@ -1552,3 +1552,20 @@
 2026-11-20 15:54:45,255 - INFO - Fetching SRO_GT
 2026-11-20 15:54:46,031 - INFO - SRO_GT: 0 upcoming races found
 2026-11-20 15:54:46,032 - INFO - === Pipeline run finished ===
+2026-11-21 15:05:04,337 - INFO - === Pipeline run started ===
+2026-11-21 15:05:04,360 - INFO - Fetching WEC
+2026-11-21 15:05:05,250 - INFO - WEC: 9 upcoming races found
+2026-11-21 15:05:05,250 - INFO - no change: FIA WEC | 24 Hours of Le Mans
+2026-11-21 15:05:05,250 - INFO - no change: FIA WEC | 6 Hours of Imola
+2026-11-21 15:05:05,250 - INFO - no change: FIA WEC | 6 Hours of São Paulo
+2026-11-21 15:05:05,250 - INFO - no change: FIA WEC | Qatar 1812 km
+2026-11-21 15:05:05,250 - INFO - no change: FIA WEC - 8 Hours of Bahrain
+2026-11-21 15:05:05,250 - INFO - no change: FIA WEC | 6 Hours of Fuji
+2026-11-21 15:05:05,251 - INFO - no change: FIA WEC | 6 Hours of Silverstone
+2026-11-21 15:05:05,251 - INFO - no change: FIA WEC | 6 Hours of Spa-Francorchamps
+2026-11-21 15:05:05,251 - INFO - no change: FIA WEC | Lone Star Le Mans (COTA)
+2026-11-21 15:05:05,251 - INFO - Fetching WRC
+2026-11-21 15:05:06,550 - INFO - WRC: 0 upcoming races found
+2026-11-21 15:05:06,550 - INFO - Fetching SRO_GT
+2026-11-21 15:05:07,368 - INFO - SRO_GT: 0 upcoming races found
+2026-11-21 15:05:07,368 - INFO - === Pipeline run finished ===
